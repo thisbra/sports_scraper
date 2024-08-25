@@ -19,7 +19,7 @@ def extract_table_data(url, table_id, table_name):
         print(f'Table with id {table_id} not found.')
         exit()
 
-    print(table.prettify())
+    # print(table.prettify())
 
     # Step 4: Extract headers
     headers = []

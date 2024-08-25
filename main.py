@@ -12,6 +12,8 @@ from table_scraper import extract_table_data
 # # Converter json to csv
 # json_to_csv('serie_a.json', 'serie_a.csv')
 
+# INSERIR ID DA TABELA AQUI'
+table_id = 'matchlogs_for'
 
 # Ação para todos os clubes da Série A
 with open('assets/clubs_data.json', 'r') as f:
@@ -21,10 +23,13 @@ with open('assets/clubs_data.json', 'r') as f:
     for club in clubs_data:
         extract_table_data(
             url=f'https://fbref.com/{club["href"]}',
-            table_id='matchlogs_for',
+            table_id=table_id,
             table_name=club['name']
         )
 
-        json_to_csv(f'{club["name"]}.json', f'{club["name"]}.csv')
+        json_to_csv(
+            f'{club["name"]}_{table_id}.json',
+            f'{club["name"]}_{table_id}.csv'
+        )
 
         print(f'{club["name"]} done')

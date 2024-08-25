@@ -21,15 +21,17 @@ with open('assets/clubs_data.json', 'r') as f:
 
     # For each club make array of href
     for club in clubs_data:
+        url = f'https://fbref.com{club["href"]}'
         extract_table_data(
-            url=f'https://fbref.com/{club["href"]}',
+            url=url,
             table_id=table_id,
-            table_name=club['name']
+            table_name=f'{club["name"]}_{table_id}'
         )
 
         json_to_csv(
             f'{club["name"]}_{table_id}.json',
-            f'{club["name"]}_{table_id}.csv'
+            f'{club["name"]}_{table_id}.csv',
+            f'data/{table_id}'
         )
 
-        print(f'{club["name"]} done')
+        print(f'{table_id} for {club["name"]} done')

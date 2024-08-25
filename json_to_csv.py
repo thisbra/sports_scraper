@@ -2,13 +2,11 @@ import json
 import csv
 import os
 
-def json_to_csv(json_file_name, csv_file_name):
-    # Define the assets directory
-    assets_dir = 'assets'
+def json_to_csv(json_file_name, csv_file_name, dir_name):
     
     # Construct the full paths for the input and output files
-    json_file_path = os.path.join(assets_dir, json_file_name)
-    csv_file_path = os.path.join(assets_dir, csv_file_name)
+    json_file_path = os.path.join(dir_name, json_file_name)
+    csv_file_path = os.path.join(dir_name, csv_file_name)
     
     # Read JSON data from file
     try:

@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -36,8 +37,14 @@ def extract_table_data(url, table_id, table_name):
             row_data[headers[i]] = cell.get_text(strip=True)
         rows.append(row_data)
 
+    # if data/{table_id} directory does not exist, create it
+    try:
+        os.makedirs(f'data/{table_id}')
+    except FileExistsError:
+        pass
+
     # Step 6: Convert the data into JSON and save to a file
-    with open(f'assets/{table_name}.json', 'w', encoding='utf-8') as json_file:
+    with open(f'data/{table_id}/{table_name}.json', 'w', encoding='utf-8') as json_file:
         json.dump(rows, json_file, ensure_ascii=False, indent=4)
 
-    print(f'Table data has been saved to assets/{table_name}.json.')
+    print(f'Table data has been saved to data/{table_id}/{table_name}.json.')

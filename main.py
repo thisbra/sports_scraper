@@ -14,7 +14,7 @@ from table_scraper import extract_table_data
 # json_to_csv('serie_a.json', 'serie_a.csv')
 
 # INSERIR ID DA TABELA AQUI'
-table_id = 'matchlogs_for'
+table_id = 'stats_standard_24'
 
 # Ação para todos os clubes da Série A
 with open('assets/clubs_data.json', 'r') as f:
@@ -37,4 +37,4 @@ with open('assets/clubs_data.json', 'r') as f:
 
         print(f'{table_id} for {club["name"]} done')
 
-        time.sleep(5)
+        time.sleep(10)

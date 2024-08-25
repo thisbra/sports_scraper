@@ -1,4 +1,5 @@
 import json
+import time
 from json_to_csv import json_to_csv
 from table_scraper import extract_table_data
 
@@ -35,3 +36,5 @@ with open('assets/clubs_data.json', 'r') as f:
         )
 
         print(f'{table_id} for {club["name"]} done')
+
+        time.sleep(5)

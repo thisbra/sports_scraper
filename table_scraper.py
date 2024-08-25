@@ -37,7 +37,7 @@ def extract_table_data(url, table_id, table_name):
         rows.append(row_data)
 
     # Step 6: Convert the data into JSON and save to a file
-    with open(f'{table_name}.json', 'w', encoding='utf-8') as json_file:
+    with open(f'assets/{table_name}.json', 'w', encoding='utf-8') as json_file:
         json.dump(rows, json_file, ensure_ascii=False, indent=4)
 
-    print(f'Table data has been saved to {table_name}.json.')
+    print(f'Table data has been saved to assets/{table_name}.json.')

@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-def extract_table_data(url, table_id, table_name):
+def extract_table_data(url, table_id, table_name, team_name=None):
     response = requests.get(url)
 
     if response.status_code != 200:
@@ -44,7 +44,7 @@ def extract_table_data(url, table_id, table_name):
         pass
 
     # Step 6: Convert the data into JSON and save to a file
-    with open(f'data/{table_id}/{table_name}.json', 'w', encoding='utf-8') as json_file:
+    with open(f'data/{table_id}/{team_name + table_name}.json', 'w', encoding='utf-8') as json_file:
         json.dump(rows, json_file, ensure_ascii=False, indent=4)
 
     print(f'Table data has been saved to data/{table_id}/{table_name}.json.')

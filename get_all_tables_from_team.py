@@ -13,6 +13,9 @@ from table_scraper import extract_table_data
 def get_all_tables_from_team(team_href):
     response = requests.get(f'https://fbref.com{team_href}')
 
+    # split the team_href to get the team name
+    team_name = team_href.split('/')[-1]
+
     if response.status_code != 200:
         print(f"Failed to retrieve the page. Status code: {response.status_code}")
         exit()
@@ -30,12 +33,13 @@ def get_all_tables_from_team(team_href):
         extract_table_data(
             url=f'https://fbref.com{team_href}',
             table_id=table_id,
-            table_name=table_name
+            table_name=table_name,
+            team_name=team_name
         )
 
         json_to_csv(
-            f'{table_name}.json',
-            f'{table_name}.csv',
+            f'{team_name + table_name}.json',
+            f'{team_name + table_name}.csv',
             f'data/{table_id}'
         )
 

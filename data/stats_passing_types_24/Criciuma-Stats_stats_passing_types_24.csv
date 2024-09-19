@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Marcelo Hermes,brBRA,"DF,MF",29-231,22.6,935,703,227,39,1,6,123,119,69,27,29,4,634,5,41,Matches
+Gustavo,brBRA,GK,31-193,21.7,594,350,241,43,0,4,0,1,0,0,0,0,425,3,1,Matches
+Rodrigo Fagundes,brBRA,DF,37-193,20.0,955,901,49,48,0,20,5,1,0,0,0,0,782,5,9,Matches
+Yannick Bolasie,cdCOD,FW,35-118,17.4,341,329,9,0,1,1,33,2,0,0,0,0,227,3,16,Matches
+Barreto,brBRA,MF,28-284,16.4,584,559,24,23,3,1,5,1,0,0,0,0,498,1,14,Matches
+Claudinho,brBRA,DF,23-361,16.7,846,706,139,18,1,5,49,110,11,5,3,1,670,1,19,Matches
+Newton,brBRA,MF,24-191,15.7,607,592,12,7,0,8,24,4,0,0,0,0,473,3,15,Matches
+Arthur,brBRA,FW,32-096,13.8,227,204,20,0,2,1,3,1,0,0,0,0,159,3,7,Matches
+Miguel Trauco,pePER,DF,32-025,12.4,661,523,135,29,1,5,30,99,7,0,5,0,472,3,14,Matches
+Matheusinho,brBRA,"MF,FW",26-221,11.6,437,423,10,2,4,12,30,6,1,1,0,0,321,4,12,Matches
+Higor Meritão,brBRA,MF,30-088,10.8,475,470,5,5,0,0,2,0,0,0,0,0,426,0,6,Matches
+Fellipe Mateus,brBRA,"MF,FW",33-220,12.9,476,441,31,12,0,4,26,1,12,7,4,0,378,4,10,Matches
+Tobias Figueiredo,ptPOR,DF,30-230,11.1,476,454,21,18,0,8,0,1,0,0,0,0,407,1,2,Matches
+Wilker Ángel,veVEN,DF,31-185,9.8,310,298,12,11,0,1,0,1,0,0,0,0,245,0,0,Matches
+Marquinhos Gabriel,brBRA,MF,34-060,9.4,369,354,11,3,2,1,20,0,2,0,1,0,296,4,6,Matches
+Éder,itITA,FW,37-309,8.5,221,192,28,3,1,1,16,3,0,0,0,0,164,1,7,Matches
+Walisson Maia,brBRA,DF,33-029,9.5,367,354,12,12,0,1,0,0,0,0,0,0,287,1,2,Matches
+Ronald,brBRA,MF,27-093,9.4,382,356,22,10,1,3,16,4,7,4,2,0,316,4,9,Matches
+Allano,brBRA,"FW,MF",29-148,8.0,283,279,3,1,1,3,14,2,0,0,0,0,229,1,5,Matches
+Jonathan,brBRA,DF,32-025,5.7,307,252,54,3,0,4,14,51,0,0,0,0,244,1,9,Matches
+Alisson,brBRA,GK,29-103,3.3,105,56,48,8,0,0,0,0,0,0,0,0,64,1,0,Matches
+Luis Eduardo Marques dos Santos,brBRA,DF,27-112,2.5,176,145,31,3,1,0,16,25,3,1,1,0,136,0,5,Matches
+Patrick de Paula,brBRA,MF,25-011,1.9,88,84,4,4,1,2,0,0,0,0,0,0,72,0,3,Matches
+Renato Kayser,brBRA,FW,28-215,0.9,15,14,1,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+Felipe Vizeu,brBRA,FW,27-191,1.1,28,27,1,0,1,0,0,0,0,0,0,0,21,0,1,Matches
+Yerson Candelo,coCOL,DF,32-208,0.3,23,16,7,1,0,0,3,6,0,0,0,0,19,0,1,Matches
+João Carlos,brBRA,"MF,FW",23-090,0.3,10,8,2,0,0,0,1,2,0,0,0,0,6,0,0,Matches
+Mateo Barcia,uyURU,"MF,FW",23-213,0.3,4,4,0,0,0,0,1,0,0,0,0,0,3,0,0,Matches
+Eliédson,brBRA,MF,21-186,0.3,16,16,0,0,0,0,1,0,0,0,0,0,13,0,0,Matches
+Sergio Antonio De Luiz Junior,brBRA,MF,29-166,0.2,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+Werik Popó,brBRA,FW,22-338,0.1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,30.9,25.0,10327,9119,1159,303,21,91,432,440,112,45,45,5,8004,49,214,
+Opponent Total,,,28.5,25.0,13175,11921,1220,362,15,83,526,478,141,49,54,1,10781,34,234,

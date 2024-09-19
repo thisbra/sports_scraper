@@ -1,0 +1,39 @@
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+Léo Jardim,brBRA,GK,29-183,25.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,9,1,Matches
+Pablo Vegetti,arARG,FW,35-340,22.1,12,9,7,4,1,7,16,43.8,9,12,4,8,1,13,31,0,Matches
+Paulo Henrique,brBRA,DF,28-056,20.6,75,46,45,24,6,43,68,63.2,25,27,12,15,32,107,55,0,Matches
+Léo Pelé,brBRA,DF,28-197,20.0,27,12,19,8,0,9,16,56.3,7,23,15,8,15,42,92,1,Matches
+Maicon,brBRA,DF,36-005,19.9,26,13,14,11,1,17,25,68.0,8,33,24,9,22,48,121,0,Matches
+Lucas Piton,brBRA,DF,23-346,19.4,40,26,23,14,3,24,40,60.0,16,18,6,12,24,64,54,0,Matches
+David,brBRA,FW,28-338,16.5,21,15,8,10,3,6,20,30.0,14,9,0,9,8,29,9,1,Matches
+Hugo Moura,brBRA,MF,26-260,13.4,42,29,21,18,3,22,45,48.9,23,16,6,10,9,51,23,0,Matches
+Mateus Cocão,brBRA,MF,22-185,14.6,56,35,26,27,3,24,48,50.0,24,27,5,22,21,77,12,1,Matches
+Adson,brBRA,FW,23-349,13.6,25,20,11,9,5,5,18,27.8,13,15,2,13,6,31,9,0,Matches
+Juan Sforza,arARG,MF,22-218,11.1,20,13,6,11,3,11,27,40.7,16,16,5,11,15,35,14,0,Matches
+João Victor,brBRA,DF,26-064,9.3,18,15,16,1,1,9,13,69.2,4,12,5,7,8,26,47,0,Matches
+Pablo Galdames Millán,clCHI,MF,27-264,8.5,19,11,7,10,2,9,24,37.5,15,11,2,9,9,28,11,0,Matches
+Dimitri Payet,frFRA,MF,37-174,7.8,10,7,4,4,2,2,6,33.3,4,1,0,1,4,14,1,0,Matches
+Rossi,brBRA,"FW,MF",31-150,5.6,8,8,4,4,0,3,6,50.0,3,10,1,9,5,13,7,0,Matches
+Victor Luis,brBRA,DF,31-088,4.4,14,9,8,5,1,8,12,66.7,4,3,1,2,6,20,15,0,Matches
+Rayan Vitor,brBRA,"FW,MF",18-047,5.9,7,5,2,4,1,2,6,33.3,4,10,1,9,3,10,9,0,Matches
+João Pedro,brBRA,MF,19-153,4.8,16,12,7,6,3,7,12,58.3,5,8,0,8,4,20,7,0,Matches
+Zé Gabriel,brBRA,MF,25-242,5.1,15,11,3,8,4,9,12,75.0,3,3,3,0,5,20,10,0,Matches
+José Luis Rodríguez Bebanz,uyURU,DF,27-189,3.6,10,9,9,1,0,8,18,44.4,10,6,0,6,3,13,19,0,Matches
+Bruno Praxedes,brBRA,MF,22-224,2.9,5,4,1,2,2,1,7,14.3,6,0,0,0,2,7,4,1,Matches
+Emerson Rodríguez,coCOL,FW,24-025,2.8,5,4,2,1,2,3,10,30.0,7,3,1,2,1,6,2,0,Matches
+Guilherme Estrella,brBRA,MF,19-150,1.6,0,0,0,0,0,0,0,,0,1,0,1,3,3,0,0,Matches
+Robert Rojas,pyPAR,DF,28-142,1.9,4,3,3,1,0,2,2,100.0,0,0,0,0,1,5,14,0,Matches
+Gary Medel,clCHI,DF,37-047,1.2,1,0,1,0,0,0,0,,0,1,1,0,0,1,3,0,Matches
+Leandrinho,brBRA,"DF,FW",19-186,2.5,5,4,5,0,0,3,6,50.0,3,4,0,4,1,6,12,0,Matches
+Clayton,brBRA,FW,25-252,1.6,3,3,1,0,2,1,1,100.0,0,1,1,0,1,4,2,0,Matches
+Philippe Coutinho,brBRA,MF,32-099,1.3,3,2,1,1,1,1,1,100.0,0,0,0,0,3,6,0,0,Matches
+Jean Meneses,clCHI,"FW,MF",31-187,1.2,3,2,1,2,0,0,3,0.0,3,0,0,0,2,5,1,0,Matches
+Gabriel Souza,brBRA,FW,19-258,1.0,4,2,0,2,2,0,0,,0,1,0,1,1,5,0,0,Matches
+Josef de Souza,brBRA,MF,35-221,0.8,3,1,2,1,0,1,3,33.3,2,0,0,0,1,4,4,0,Matches
+Erick Marcus,brBRA,"FW,MF",20-202,1.9,5,4,2,3,0,1,4,25.0,3,3,0,3,2,7,1,0,Matches
+Lyncon,brBRA,DF,19-135,0.5,1,0,1,0,0,1,2,50.0,1,0,0,0,0,1,5,0,Matches
+Sergio Antonio De Luiz Junior,brBRA,"FW,MF",29-166,0.5,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
+Alex Teixeira,brBRA,FW,34-257,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Bruno Lopes,brBRA,FW,17-056,0.1,1,1,1,0,0,0,1,0.0,1,0,0,0,0,1,0,0,Matches
+Squad Total,,,28.1,25.0,504,335,261,192,51,239,473,50.5,234,274,95,179,218,722,603,5,
+Opponent Total,,,28.4,25.0,390,240,182,159,49,178,373,47.7,195,265,71,194,186,576,498,2,

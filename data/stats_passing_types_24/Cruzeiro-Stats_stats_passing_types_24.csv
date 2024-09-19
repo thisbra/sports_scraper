@@ -1,0 +1,37 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Matheus Pereira,ptPOR,"FW,MF",28-137,23.1,1183,1028,152,47,7,13,122,12,67,21,35,3,897,3,22,Matches
+William,brBRA,DF,29-169,22.4,1261,1013,242,21,0,6,126,201,20,4,14,0,945,6,40,Matches
+João Marcelo,brBRA,DF,24-098,22.0,1250,1215,34,30,0,2,1,1,0,0,0,0,1140,1,6,Matches
+Lucas Romero,arARG,MF,30-154,20.0,1189,1135,51,43,0,4,3,8,0,0,0,0,1043,3,12,Matches
+Zé Ivaldo,brBRA,DF,27-211,21.5,1140,1080,54,43,0,23,11,9,0,0,0,0,897,6,21,Matches
+Lucas Silva,brBRA,MF,31-216,15.0,687,643,42,10,1,3,14,1,21,6,5,0,591,2,10,Matches
+Marlon,brBRA,DF,27-122,15.9,958,815,142,13,0,26,41,128,1,1,0,0,751,1,19,Matches
+Anderson,brBRA,GK,26-198,15.0,390,261,129,19,0,3,0,0,0,0,0,0,331,0,0,Matches
+Arthur,brBRA,FW,26-078,14.1,449,428,17,3,1,3,35,11,3,0,0,0,352,4,25,Matches
+Álvaro Barreal,arARG,"MF,FW",24-033,11.9,573,539,31,8,0,6,48,8,15,1,11,0,432,3,22,Matches
+Ramiro Benetti,brBRA,MF,31-120,11.0,532,499,31,7,1,1,15,12,9,2,6,0,422,2,16,Matches
+Gabriel Veron,brBRA,"FW,MF",22-016,10.0,218,217,0,0,1,3,5,0,0,0,0,0,164,1,9,Matches
+Cássio,brBRA,GK,37-105,11.0,288,192,96,27,0,2,0,0,0,0,0,0,240,0,1,Matches
+Kaiki,brBRA,DF,21-195,9.4,501,398,99,8,0,0,21,91,0,0,0,0,393,4,13,Matches
+Matheus Henrique,brBRA,"MF,FW",26-275,8.9,348,330,17,6,0,2,14,10,1,0,1,0,292,1,8,Matches
+Rafael Silva,brBRA,FW,32-168,5.9,98,97,1,0,0,0,2,0,0,0,0,0,83,0,7,Matches
+Kaio Jorge,brBRA,FW,22-239,7.0,114,105,9,0,1,1,2,1,0,0,0,0,87,0,2,Matches
+Lucas Villalba,arARG,DF,30-031,6.7,392,376,14,8,0,1,7,6,0,0,0,0,331,2,4,Matches
+Lautaro Díaz,arARG,FW,26-121,4.5,99,97,2,0,0,0,8,1,1,0,0,0,61,0,6,Matches
+Neris,brBRA,DF,32-094,3.4,151,147,3,3,0,3,0,0,0,0,0,0,132,1,3,Matches
+Walace,brBRA,MF,29-168,3.2,189,185,4,4,0,1,1,0,0,0,0,0,174,0,3,Matches
+Robert,brBRA,"MF,FW",19-159,4.4,107,106,1,0,0,1,5,1,0,0,0,0,78,0,2,Matches
+Juan Ignacio Dinenno,arARG,"FW,DF",30-022,2.7,44,41,3,0,0,2,0,0,0,0,0,0,28,0,2,Matches
+Machado,brBRA,MF,28-243,1.9,115,110,5,2,0,5,3,0,3,0,2,0,104,0,0,Matches
+Vitor Hugo Amorim,brBRA,"MF,FW",20-214,4.8,170,164,5,3,0,0,5,2,0,0,0,0,137,1,4,Matches
+João Wellington,brBRA,"MF,FW",20-261,2.0,64,62,2,0,0,0,0,2,0,0,0,0,54,0,0,Matches
+Helibelton Palacios,coCOL,DF,31-100,1.0,42,35,7,0,0,0,1,7,0,0,0,0,37,0,0,Matches
+José Cifuentes,ecECU,MF,25-191,0.8,39,39,0,0,0,0,0,0,0,0,0,0,28,0,0,Matches
+Mateus Vital,brBRA,"MF,FW",26-220,2.2,111,106,5,2,0,0,4,3,0,0,0,0,93,0,3,Matches
+Rafael Elias,brBRA,FW,25-160,1.1,24,23,1,0,0,0,0,0,0,0,0,0,17,0,1,Matches
+Arthur Rodrigues,brBRA,"FW,MF",20-220,0.9,15,15,0,0,0,0,0,0,0,0,0,0,9,0,0,Matches
+João Pedro,brBRA,"FW,MF",21-230,0.9,23,23,0,0,0,0,1,0,0,0,0,0,13,0,0,Matches
+Wesley Gasolina,brBRA,"DF,MF",24-190,0.5,37,33,4,0,0,0,7,4,0,0,0,0,27,0,2,Matches
+Fabrizio Peralta,pyPAR,MF,22-048,0.0,5,4,1,0,0,0,0,1,0,0,0,0,4,0,0,Matches
+Squad Total,,,27.5,26.0,12806,11561,1204,307,12,111,502,520,141,35,74,3,10387,41,263,
+Opponent Total,,,28.6,26.0,11723,10433,1263,360,14,133,514,501,135,60,51,3,9358,27,266,

@@ -1,0 +1,40 @@
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+João Pedro,brBRA,DF,27-309,17.9,24,13,16,6,2,12,21,57.1,9,26,11,15,8,32,44,0,Matches
+Dodi,brBRA,MF,28-155,16.1,47,26,14,28,5,21,29,72.4,8,17,4,13,27,74,13,0,Matches
+Agustín Marchesín,arARG,GK,36-187,16.0,1,0,1,0,0,1,1,100.0,0,1,0,1,0,1,7,0,Matches
+Franco Cristaldo,arARG,"MF,FW",28-035,15.4,26,18,4,18,4,8,25,32.0,17,14,1,13,9,35,10,0,Matches
+Reinaldo,brBRA,"DF,MF",34-357,15.1,26,17,12,6,8,13,23,56.5,10,11,1,10,13,39,37,1,Matches
+Mathías Villasanti,pyPAR,MF,27-239,15.0,45,24,17,23,5,17,39,43.6,22,21,5,16,23,68,23,1,Matches
+Cristian Pavón,arARG,"FW,MF",28-242,9.7,11,6,5,6,0,5,14,35.7,9,12,1,11,7,18,8,0,Matches
+Rodrigo Ely,brBRA,DF,30-321,12.9,26,16,18,8,0,13,16,81.3,3,23,18,5,16,42,55,0,Matches
+Gustavo Martins Santos,brBRA,DF,22-039,11.5,17,8,9,7,1,5,10,50.0,5,14,6,8,14,31,51,0,Matches
+Gustavo Nunes,brBRA,"FW,MF",18-304,13.8,17,12,6,4,7,7,11,63.6,4,14,0,14,2,19,7,0,Matches
+Yeferson Soteldo,veVEN,"FW,MF",27-081,10.5,10,6,4,5,1,6,11,54.5,5,6,1,5,2,12,2,1,Matches
+Edenílson,brBRA,"FW,MF",34-276,8.2,10,5,6,2,2,3,6,50.0,3,8,2,6,6,16,9,0,Matches
+Walter Kannemann,arARG,DF,33-189,8.1,16,11,11,4,1,8,16,50.0,8,12,4,8,13,29,31,0,Matches
+João Pedro Pepê,brBRA,MF,26-257,8.2,31,18,15,14,2,12,22,54.5,10,9,3,6,10,41,17,0,Matches
+Fábio,brBRA,DF,34-072,7.5,12,7,5,5,2,6,12,50.0,6,5,1,4,5,17,16,0,Matches
+João Pedro,itITA,FW,32-194,6.4,2,0,0,1,1,0,0,,0,2,0,2,1,3,4,0,Matches
+Du Queiroz,brBRA,MF,24-244,6.5,19,13,7,9,3,10,17,58.8,7,9,0,9,9,28,8,0,Matches
+Miguel Monsalve,coCOL,"FW,MF",20-205,5.0,6,4,3,2,1,2,7,28.6,5,3,0,3,0,6,2,0,Matches
+Nata,brBRA,DF,23-106,5.6,8,4,8,0,0,4,6,66.7,2,11,9,2,7,15,38,0,Matches
+Pedro Geromel,brBRA,DF,38-364,5.3,7,6,4,3,0,3,5,60.0,2,9,7,2,3,10,29,0,Matches
+Felipe Carballo,uyURU,MF,27-351,5.3,15,10,6,9,0,5,22,22.7,17,5,0,5,4,19,9,0,Matches
+Rafael Cabral,brBRA,GK,34-122,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Everton,brBRA,"FW,MF",27-186,5.1,6,5,2,2,2,4,7,57.1,3,4,1,3,1,7,5,0,Matches
+Jemerson,brBRA,DF,32-026,3.8,2,2,1,0,1,2,2,100.0,0,9,5,4,3,5,12,0,Matches
+Martin Braithwaite,dkDEN,FW,33-106,3.2,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,4,0,Matches
+Nathan,brBRA,"FW,MF",28-190,3.6,3,2,1,2,0,1,5,20.0,4,4,0,4,2,5,1,0,Matches
+Caíque,brBRA,GK,27-050,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Mayk,brBRA,DF,25-019,2.8,6,4,2,3,1,2,4,50.0,2,8,2,6,3,9,11,0,Matches
+Diego Costa,esESP,FW,35-348,2.3,3,1,0,2,1,1,1,100.0,0,1,1,0,0,3,1,0,Matches
+Zé Guilherme,brBRA,DF,19-187,2.5,11,7,8,3,0,5,10,50.0,5,2,1,1,7,18,3,0,Matches
+Cuiabano,brBRA,DF,21-216,1.8,3,0,2,1,0,2,2,100.0,0,4,2,2,5,8,5,0,Matches
+Nathan Fernandes,brBRA,"FW,MF",19-216,5.2,7,5,2,4,1,2,8,25.0,6,5,0,5,3,10,3,0,Matches
+Rodrigo Caio,brBRA,DF,31-033,1.2,3,3,2,1,0,1,3,33.3,2,6,4,2,0,3,9,0,Matches
+Alexander Aravena,clCHI,FW,22-013,1.0,1,1,1,0,0,0,0,,0,1,0,1,2,3,4,0,Matches
+Matias Arezo,uyURU,"FW,MF",21-303,0.8,2,1,1,0,1,1,2,50.0,1,1,0,1,0,2,1,0,Matches
+Alysson Edward,brBRA,"MF,FW",18-137,0.5,1,1,0,1,0,0,2,0.0,2,2,0,2,0,1,2,0,Matches
+Ronald,brBRA,"MF,DF",21-221,0.4,1,1,1,0,0,0,0,,0,2,2,0,0,1,4,0,Matches
+Squad Total,,,28.8,24.0,425,257,194,179,52,182,360,50.6,178,282,92,190,205,630,485,3,
+Opponent Total,,,28.2,24.0,511,315,268,202,41,237,521,45.5,284,278,81,197,207,718,533,3,

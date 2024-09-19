@@ -1,0 +1,43 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Lucas Arcanjo,brBRA,GK,26-042,26.0,788,552,234,43,0,4,0,0,0,0,0,0,551,2,1,Matches
+Wagner,brBRA,DF,25-058,24.1,1199,1112,83,77,0,19,1,3,0,0,0,0,1027,4,7,Matches
+Willian,brBRA,MF,31-126,20.6,636,628,6,5,0,3,3,1,0,0,0,0,535,2,8,Matches
+Matheusinho,brBRA,"MF,FW",26-337,18.8,602,536,63,22,0,8,72,4,35,24,6,0,469,3,13,Matches
+Alerrandro,brBRA,FW,24-251,17.1,321,275,46,1,1,1,5,4,0,0,0,0,227,0,12,Matches
+Lucas Esteves,brBRA,"DF,MF",24-087,21.6,1009,830,179,21,0,6,75,152,6,2,4,0,790,0,23,Matches
+Willean Lepo,brBRA,DF,27-247,18.0,895,730,161,16,0,3,48,144,1,0,1,0,683,4,31,Matches
+Luan Silva,brBRA,MF,25-128,13.6,525,504,21,21,0,5,3,0,0,0,0,0,465,0,10,Matches
+Osvaldo,brBRA,"MF,FW",37-161,11.9,331,299,31,10,1,2,45,5,15,6,3,0,237,1,12,Matches
+Léo Naldi,brBRA,MF,23-032,11.6,376,361,13,12,1,4,8,1,0,0,0,0,303,2,7,Matches
+Janderson,brBRA,"FW,MF",25-136,10.0,241,226,15,0,0,0,10,9,0,0,0,0,162,0,8,Matches
+Caio Vinícius,brBRA,"DF,MF",25-252,6.7,335,313,22,20,0,1,3,2,0,0,0,0,296,0,1,Matches
+Raúl Cáceres,pyPAR,"DF,MF",33-001,8.0,371,283,87,13,0,0,39,68,6,3,1,0,256,1,12,Matches
+Patric Calmon PK,brBRA,DF,30-076,5.5,258,202,56,7,0,1,27,49,0,0,0,0,195,0,5,Matches
+Neris,brBRA,DF,32-094,5.1,233,222,11,11,0,2,0,0,0,0,0,0,196,0,0,Matches
+Ricardo,brBRA,MF,30-205,4.7,178,170,8,8,0,2,6,0,0,0,0,0,136,0,4,Matches
+Camutanga,brBRA,DF,30-358,5.0,194,172,22,20,0,0,0,2,0,0,0,0,163,0,3,Matches
+Bruno Uvini,brBRA,DF,33-108,4.8,199,188,10,10,0,1,0,0,0,0,0,0,170,1,1,Matches
+Machado,brBRA,MF,28-243,4.6,190,166,24,7,1,5,22,0,17,9,7,0,154,0,3,Matches
+Zeca,brBRA,DF,30-126,4.3,228,185,43,7,0,1,18,36,0,0,0,0,170,0,8,Matches
+Rodrigo Andrade,brBRA,"MF,FW",27-107,4.3,181,165,13,10,0,0,4,0,3,1,2,0,148,3,3,Matches
+Dudu,brBRA,MF,25-106,3.3,174,165,9,6,0,0,2,3,0,0,0,0,133,0,4,Matches
+Jean Mota,brBRA,MF,30-340,4.1,234,201,31,13,1,0,31,1,17,7,6,0,172,2,6,Matches
+Reynaldo Cesar Moraes,brBRA,DF,27-260,4.0,122,116,6,6,0,0,1,0,0,0,0,0,94,0,3,Matches
+Carlos Eduardo,brBRA,"FW,MF",27-345,3.2,62,58,4,1,0,1,4,1,0,0,0,0,46,0,1,Matches
+Erick Castillo,ecECU,"FW,MF",29-227,3.0,50,47,2,0,0,0,4,0,1,0,1,0,37,1,1,Matches
+Mateus Gonçalves Martins,brBRA,"MF,FW",29-357,2.3,59,53,6,0,0,1,6,4,2,1,0,0,46,0,1,Matches
+Luiz Adriano,brBRA,FW,37-160,2.2,45,40,5,0,0,0,0,0,0,0,0,0,32,0,0,Matches
+Everaldo,brBRA,"MF,FW",30-114,1.6,45,39,6,1,0,0,8,0,5,3,1,0,36,0,1,Matches
+Daniel Jr,brBRA,"MF,FW",22-133,1.5,69,59,10,5,0,0,5,0,4,1,2,0,57,0,3,Matches
+Gustavo Mosquito,brBRA,FW,27-012,1.3,24,23,1,0,0,0,4,0,1,0,1,0,20,0,2,Matches
+José Hugo,brBRA,"MF,FW",24-338,5.6,159,154,4,0,0,0,30,3,1,0,0,0,110,1,10,Matches
+EDU,brBRA,DF,24-095,1.5,40,35,4,4,0,1,0,0,0,0,0,0,33,1,1,Matches
+Iury de Castilho,brBRA,"FW,MF",29-013,1.4,29,27,2,0,0,0,1,1,0,0,0,0,25,0,2,Matches
+Fábio Soares,brBRA,MF,19-291,1.0,28,28,0,0,0,0,3,0,0,0,0,0,17,0,2,Matches
+Lawan,brBRA,FW,19-117,1.0,16,12,4,0,1,0,0,0,0,0,0,0,9,0,2,Matches
+Pablo Baianinho,brBRA,"MF,DF",21-047,0.3,11,9,2,0,0,0,3,0,2,2,0,0,6,0,1,Matches
+Léo Gamalho,brBRA,FW,38-233,0.2,10,9,1,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+Luis Miguel,brBRA,"MF,FW",19-228,0.2,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+José Breno,brBRA,MF,20-105,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Squad Total,,,27.6,26.0,10476,9203,1245,377,6,71,491,493,116,59,35,0,8223,28,212,
+Opponent Total,,,28.5,26.0,13998,12778,1187,307,22,87,571,520,152,58,55,0,11649,33,218,

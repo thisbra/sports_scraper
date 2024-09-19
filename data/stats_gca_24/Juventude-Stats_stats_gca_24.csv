@@ -1,0 +1,39 @@
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,TO,Sh,Fld,Def,Matches
+Gabriel,brBRA,GK,31-358,22.5,5,0.22,3,2,0,0,0,0,1,0.04,1,0,0,0,0,0,Matches
+Erick,brBRA,FW,27-260,18.8,31,1.65,20,0,6,2,1,2,2,0.11,2,0,0,0,0,0,Matches
+Jadson,brBRA,MF,31-020,20.7,77,3.72,65,0,3,1,5,3,10,0.48,8,0,0,0,1,1,Matches
+Lucas Barbosa,brBRA,FW,23-210,19.1,39,2.00,35,0,0,1,3,0,2,0.10,2,0,0,0,0,0,Matches
+Danilo Boza,brBRA,DF,26-136,20.5,14,0.68,11,1,0,2,0,0,0,0.00,0,0,0,0,0,0,Matches
+Alan Ruschel,brBRA,DF,35-027,17.9,38,2.13,24,10,0,0,3,1,4,0.22,1,1,0,0,1,1,Matches
+João Lucas,brBRA,DF,26-194,17.8,49,2.75,39,3,2,1,3,1,5,0.28,4,1,0,0,0,0,Matches
+Zé Marcos,brBRA,DF,26-231,16.3,5,0.31,4,0,0,1,0,0,2,0.12,1,0,0,1,0,0,Matches
+Caíque de Jesus Gonçalves,brBRA,MF,28-345,15.8,13,0.82,12,0,0,0,0,1,0,0.00,0,0,0,0,0,0,Matches
+Nenê,brBRA,"MF,FW",43-062,13.4,56,4.18,29,23,0,1,3,0,3,0.22,1,2,0,0,0,0,Matches
+Jean Carlos Vicente,brBRA,"MF,FW",32-217,10.0,40,4.02,19,13,4,2,0,2,7,0.70,3,2,0,0,0,2,Matches
+Marcelinho,brBRA,"FW,MF",21-283,9.1,35,3.86,19,4,2,5,5,0,8,0.88,3,2,0,2,1,0,Matches
+Gilberto,brBRA,FW,35-106,7.6,10,1.32,9,0,0,0,1,0,0,0.00,0,0,0,0,0,0,Matches
+Ronie Carrillo,ecECU,FW,28-011,6.1,12,1.97,9,0,0,2,1,0,0,0.00,0,0,0,0,0,0,Matches
+Gabriel Inocêncio,brBRA,DF,30-030,9.5,12,1.26,8,1,1,0,2,0,1,0.11,1,0,0,0,0,0,Matches
+Rodrigo Sam,brBRA,DF,29-057,8.4,3,0.36,2,0,0,1,0,0,0,0.00,0,0,0,0,0,0,Matches
+Lucas Freitas,brBRA,DF,23-243,6.2,6,0.97,5,1,0,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Ewerton,brBRA,"DF,FW",23-314,7.2,13,1.80,12,0,0,1,0,0,2,0.28,2,0,0,0,0,0,Matches
+Luis Oyama,brBRA,MF,27-233,5.7,11,1.92,10,0,0,0,1,0,1,0.17,1,0,0,0,0,0,Matches
+Gabriel Taliari,brBRA,FW,27-159,5.0,13,2.58,8,0,1,2,2,0,3,0.60,2,0,0,0,1,0,Matches
+Mateus Claus,brBRA,GK,30-047,3.5,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Thiaguinho,brBRA,MF,27-161,3.1,5,1.61,2,2,1,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Luis Mandaca,brBRA,"MF,FW",22-353,5.0,17,3.41,9,0,0,4,2,2,1,0.20,0,0,0,1,0,0,Matches
+Ronaldo,brBRA,"MF,DF",27-332,2.0,3,1.50,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Dudu Vieira,brBRA,MF,30-212,1.9,1,0.52,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Yan Souto,brBRA,"DF,MF",22-350,1.9,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Abner,brBRA,DF,20-153,1.2,1,0.83,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Davi Goes,brBRA,MF,19-089,0.6,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Edson Carioca,brBRA,"FW,MF",27-077,1.7,2,1.18,1,0,0,0,1,0,1,0.59,1,0,0,0,0,0,Matches
+Diego Gonçalves,brBRA,"FW,MF",30-059,1.5,3,1.99,2,0,0,0,1,0,0,0.00,0,0,0,0,0,0,Matches
+Rildo,brBRA,"FW,MF",24-242,1.3,3,2.29,2,0,0,0,1,0,0,0.00,0,0,0,0,0,0,Matches
+Ruan,brBRA,"FW,MF",19-139,1.1,2,1.82,1,0,1,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Werik Popó,brBRA,FW,22-338,0.5,3,6.43,2,0,0,1,0,0,0,0.00,0,0,0,0,0,0,Matches
+David,brBRA,MF,24-254,0.4,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Kleiton,brBRA,FW,25-149,0.3,3,9.31,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Peixoto,brBRA,MF,27-081,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Matches
+Squad Total,,,29.0,26.0,525,20.19,370,60,21,27,35,12,53,2.04,33,8,0,4,4,4,
+Opponent Total,,,28.3,26.0,746,28.69,522,65,49,64,33,13,60,2.31,43,1,3,7,5,1,

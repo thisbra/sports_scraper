@@ -1,0 +1,39 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Bastos,aoANG,DF,33-176,22.9,4,0,0,27,4,1,1,26,22,0,1,0,90,43,20,68.3,Matches
+John,brBRA,GK,28-219,23.0,2,0,0,1,3,0,0,0,0,0,0,0,22,5,0,100.0,Matches
+Luiz Henrique,brBRA,"FW,MF",23-261,18.4,3,0,0,23,42,5,29,8,16,3,0,0,60,18,30,37.5,Matches
+Marlon Freitas,brBRA,MF,29-176,18.5,6,0,0,17,7,0,13,15,20,0,0,0,82,8,13,38.1,Matches
+Lucas Halter,brBRA,DF,24-140,14.8,4,0,0,18,6,0,0,11,10,0,1,0,48,16,18,47.1,Matches
+Júnior Santos,brBRA,FW,29-344,14.6,2,0,0,17,15,16,18,2,8,0,0,0,44,26,25,51.0,Matches
+Gregore,brBRA,MF,30-201,14.1,7,0,0,61,11,1,7,18,41,1,0,0,77,31,25,55.4,Matches
+Cuiabano,brBRA,DF,21-216,13.4,4,0,0,27,22,0,83,21,29,0,1,0,48,21,14,60.0,Matches
+Tchê Tchê,brBRA,"MF,FW",32-020,14.7,1,1,0,11,14,0,19,6,8,0,0,0,58,6,13,31.6,Matches
+Damián Suárez,uyURU,DF,36-145,13.8,5,0,0,26,11,2,51,9,23,0,0,0,44,8,8,50.0,Matches
+Alexander Barboza,arARG,DF,29-187,12.6,6,1,0,21,1,1,2,15,7,0,1,0,58,45,19,70.3,Matches
+Danilo Barbosa,brBRA,MF,28-204,11.9,3,0,0,18,17,0,0,24,19,1,0,0,65,18,15,54.5,Matches
+Jefferson Savarino,veVEN,"MF,FW",27-313,13.1,3,0,0,6,5,3,65,2,2,0,0,0,50,3,6,33.3,Matches
+Mateo Ponte,uyURU,DF,21-118,9.4,2,0,0,20,4,1,33,18,21,0,0,0,38,13,6,68.4,Matches
+Tiquinho Soares,brBRA,"FW,MF",33-246,11.1,3,0,0,28,28,2,6,2,4,0,0,0,28,24,45,34.8,Matches
+Fernando Marçal,brBRA,DF,35-213,8.3,5,0,0,14,11,1,42,18,9,0,1,0,32,23,14,62.2,Matches
+Igor,brBRA,"FW,MF",23-207,7.3,1,0,0,13,24,5,3,1,2,0,0,0,24,21,34,38.2,Matches
+Carlos Eduardo,brBRA,"FW,MF",34-338,6.8,1,0,0,9,9,1,8,6,3,0,0,0,13,7,11,38.9,Matches
+Óscar Romero,pyPAR,"MF,FW",32-077,7.2,5,0,0,12,15,0,42,6,12,0,0,0,39,5,11,31.3,Matches
+Thiago Almada,arARG,"FW,MF",23-146,4.8,0,0,0,2,4,0,19,2,0,0,0,0,25,2,0,100.0,Matches
+Jeffinho,brBRA,"FW,MF",24-264,3.6,2,0,0,7,6,0,1,2,2,0,0,0,19,2,5,28.6,Matches
+Hugo,brBRA,DF,22-365,4.9,0,0,0,7,7,0,19,5,7,0,1,0,22,1,6,14.3,Matches
+Gatito Fernández,pyPAR,GK,36-174,3.0,1,0,0,0,0,0,0,0,0,0,0,0,4,2,0,100.0,Matches
+Allan,brBRA,MF,33-255,2.3,2,0,0,7,6,0,1,4,6,0,0,0,12,2,4,33.3,Matches
+Carlos Alberto,brBRA,FW,22-158,2.0,0,0,0,3,2,0,2,0,2,0,0,0,5,3,5,37.5,Matches
+Kauê,brBRA,"MF,FW",19-333,1.9,0,0,0,6,2,0,6,0,0,0,0,0,6,2,2,50.0,Matches
+Matheus Martins,brBRA,"MF,FW",21-065,1.8,0,0,0,3,8,1,3,2,1,0,0,0,7,0,3,0.0,Matches
+Vitinho,brBRA,DF,25-058,0.7,0,0,0,1,2,0,4,0,1,0,0,0,1,2,0,100.0,Matches
+Matheus Nascimento,brBRA,FW,20-200,0.3,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,Matches
+Diego Hernández,uyURU,"FW,MF",24-089,2.3,3,0,0,12,6,1,16,1,4,0,0,0,18,1,1,50.0,Matches
+Yarlen Augusto,brBRA,MF,18-212,0.9,1,0,0,2,0,0,0,1,1,0,0,0,1,1,4,20.0,Matches
+Patrick de Paula,brBRA,"MF,FW",25-011,0.3,2,0,0,3,0,0,0,1,0,0,0,0,3,0,1,0.0,Matches
+Pablo,brBRA,DF,33-090,0.3,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,100.0,Matches
+Fabiano,brBRA,DF,18-157,0.2,0,0,0,0,3,0,0,0,2,0,0,0,2,0,2,0.0,Matches
+Jacob Montes,niNCA,"FW,MF",25-335,0.2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Alex Telles,brBRA,DF,31-279,0.2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,Matches
+Squad Total,,,28.8,26.0,78,2,0,423,296,41,494,226,284,5,6,0,1046,361,360,50.1,
+Opponent Total,,,28.4,26.0,80,3,1,309,404,35,478,205,247,5,6,0,1014,360,361,49.9,

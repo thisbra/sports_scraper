@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Agustín Rossi,arARG,GK,29-029,24.0,868,688,177,45,0,2,0,0,0,0,0,0,684,3,0,Matches
+Gerson,brBRA,"MF,FW",27-122,20.3,1026,980,43,21,2,6,28,15,7,2,1,1,868,3,31,Matches
+Fabrício Bruno,brBRA,DF,28-220,19.6,1178,1089,87,68,0,14,4,6,0,0,0,0,1072,2,7,Matches
+Pedro,brBRA,FW,27-091,18.4,295,267,26,0,7,2,2,0,0,0,0,0,221,2,8,Matches
+Ayrton Lucas,brBRA,DF,27-092,16.9,881,726,151,16,1,3,60,130,5,0,3,1,686,4,24,Matches
+Luiz Araújo,brBRA,"FW,MF",28-109,16.7,630,559,69,21,0,17,86,7,41,17,12,1,456,2,31,Matches
+Léo Pereira,brBRA,DF,28-232,16.2,955,884,71,41,1,8,19,27,0,0,0,0,768,0,14,Matches
+Wesley,brBRA,DF,21-013,16.2,784,662,122,9,0,1,47,113,0,0,0,0,666,0,10,Matches
+David Luiz,brBRA,DF,37-150,13.7,729,676,52,39,1,2,5,2,1,1,0,0,629,1,5,Matches
+Bruno Henrique,brBRA,FW,33-264,13.8,315,303,11,3,1,0,19,4,1,0,0,1,226,1,11,Matches
+Leo Ortiz,brBRA,"MF,DF",28-260,13.2,601,568,30,27,3,11,4,3,0,0,0,0,513,3,10,Matches
+Allan,brBRA,MF,27-200,12.5,671,653,18,14,1,4,4,3,0,0,0,0,586,0,7,Matches
+Erick Pulgar,clCHI,MF,30-248,11.2,628,613,15,12,1,0,2,3,0,0,0,0,542,0,6,Matches
+Everton Soares,brBRA,FW,28-181,6.0,145,135,10,1,1,0,16,2,7,4,1,0,106,0,9,Matches
+Giorgian De Arrascaeta,uyURU,MF,30-110,8.7,470,413,57,22,5,1,42,2,24,13,5,2,367,0,7,Matches
+Nicolás De La Cruz,uyURU,MF,27-110,8.6,585,514,70,26,1,2,35,5,37,13,10,1,473,1,6,Matches
+Guillermo Varela,uyURU,DF,31-179,8.2,437,376,61,6,0,0,23,55,0,0,0,0,364,0,9,Matches
+Lorran,brBRA,"MF,FW",18-077,6.6,260,237,22,4,1,0,26,0,18,7,5,0,192,1,13,Matches
+Matías Viña,uyURU,DF,26-315,4.7,226,178,48,3,0,0,16,45,0,0,0,0,178,0,8,Matches
+Carlinhos,brBRA,FW,27-220,4.1,63,53,8,1,0,0,0,0,0,0,0,0,35,2,5,Matches
+Matheus Gonçalves,brBRA,"FW,MF",19-032,2.2,135,123,10,1,1,1,14,4,5,2,1,0,95,2,7,Matches
+Igor,brBRA,MF,21-196,0.8,36,35,1,1,0,1,0,0,0,0,0,0,32,0,0,Matches
+Gabriel Barbosa,brBRA,"MF,FW",28-020,3.5,95,88,7,1,1,0,5,0,1,0,0,0,80,0,1,Matches
+Victor Hugo,brBRA,"FW,MF",20-131,2.9,103,98,5,1,3,2,5,2,2,0,2,0,81,0,3,Matches
+Matheus Cunha,brBRA,GK,23-118,1.0,47,38,8,1,0,0,0,0,0,0,0,0,38,1,0,Matches
+Michael,brBRA,FW,28-191,1.0,36,36,0,0,0,0,1,0,0,0,0,0,26,0,1,Matches
+Gonzalo Plata,ecECU,FW,23-323,1.0,55,51,4,1,1,0,2,3,0,0,0,0,45,0,3,Matches
+Alex Sandro,brBRA,DF,33-237,1.0,70,67,3,1,0,0,7,2,0,0,0,0,66,0,0,Matches
+Evertton,brBRA,MF,21-204,1.0,58,57,1,1,0,0,0,0,0,0,0,0,53,0,0,Matches
+Werton,brBRA,"MF,FW",21-003,0.5,10,10,0,0,0,0,1,0,0,0,0,0,7,0,1,Matches
+Carlos Alcaraz,arARG,MF,21-294,0.5,30,30,0,0,1,1,0,0,0,0,0,0,22,0,0,Matches
+Cleiton,brBRA,DF,21-147,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,,,28.2,25.0,12423,11208,1187,387,33,78,473,433,149,59,40,7,10178,28,237,
+Opponent Total,,,28.2,25.0,10808,9675,1088,293,23,78,411,422,111,52,39,3,8661,45,200,

@@ -14,30 +14,33 @@ from table_scraper import extract_table_data
 # # Converter json to csv
 # json_to_csv('serie_a.json', 'serie_a.csv')
 
-# INSERIR ID DA TABELA AQUI'
+# # INSERIR ID DA TABELA AQUI'
 # table_id = 'stats_standard_24'
 
-# # Ação para todos os clubes da Série A
-# with open('assets/clubs_data.json', 'r') as f:
-#     clubs_data = json.load(f)
+# Ação para todos os clubes da Série A
+with open('assets/clubs_data.json', 'r') as f:
+    table_ids = get_all_tables_from_team('/en/squads/422bb734/Atletico-Mineiro-Stats')
 
-#     # For each club make array of href
-#     for club in clubs_data:
-#         url = f'https://fbref.com{club["href"]}'
-#         extract_table_data(
-#             url=url,
-#             table_id=table_id,
-#             table_name=f'{club["name"]}_{table_id}'
-#         )
+    print(table_ids)
 
-#         json_to_csv(
-#             f'{club["name"]}_{table_id}.json',
-#             f'{club["name"]}_{table_id}.csv',
-#             f'data/{table_id}'
-#         )
+    time.sleep(10)
 
-#         print(f'{table_id} for {club["name"]} done')
+    clubs_data = json.load(f)
 
-#         time.sleep(10)
+    # For each club make array of href
+    for club in clubs_data:
+        url = f'https://fbref.com{club["href"]}'
 
-get_all_tables_from_team('/en/squads/422bb734/Atletico-Mineiro-Stats')
+        extract_table_data(
+            url=url,
+            table_ids=table_ids,
+            team_name=url.split('/')[-1]
+        )
+
+        print(f'{table_ids} for {club["name"]} done')
+
+        # print missing clubs
+        print(f'Missing clubs: {len(clubs_data) - clubs_data.index(club)}')
+
+        time.sleep(15)
+

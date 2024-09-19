@@ -2,49 +2,60 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import json
+import csv
 
-def extract_table_data(url, table_id, table_name, team_name=None):
+def extract_table_data(url: str, table_ids: list[str], team_name: str):
     response = requests.get(url)
 
     if response.status_code != 200:
         print(f"Failed to retrieve the page. Status code: {response.status_code}")
-        exit()
+        return
 
-    # Step 2: Parse the HTML content
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Step 3: Find the table by its ID
-    table = soup.find('table', id=table_id)
+    for table_id in table_ids:
+        table = soup.find('table', id=table_id)
 
-    if not table:
-        print(f'Table with id {table_id} not found.')
-        exit()
+        if not table:
+            print(f'Table with id {table_id} not found.')
+            continue
 
-    # print(table.prettify())
+        # Check if there are two header rows
+        t_heads = table.find_all('thead')
+        trs = t_heads[0].find_all('tr')
 
-    # Step 4: Extract headers
-    headers = []
-    for th in table.find('thead').find_all('th'):
-        header = th.get_text(strip=True)
-        headers.append(header)
+        if len(trs) == 2:
+            # If there are two header rows, use the second one
+            headers = [th.get_text(strip=True) for th in trs[1].find_all('th')]
+            data_rows = table.find_all('tr')[2:]  # Skip both header rows
+        else:
+            # If there's only one header row, use it
+            headers = [th.get_text(strip=True) for th in table.find('tr').find_all('th')]
+            data_rows = table.find_all('tr')[1:]  # Skip only the first row
 
-    # Step 5: Extract rows and convert them into a list of dictionaries
-    rows = []
-    for tr in table.find('tbody').find_all('tr'):
-        row_data = {}
-        cells = tr.find_all(['th', 'td'])
-        for i, cell in enumerate(cells):
-            row_data[headers[i]] = cell.get_text(strip=True)
-        rows.append(row_data)
+        # Extract rows
+        rows = []
+        for tr in data_rows:
+            row = [td.get_text(strip=True) for td in tr.find_all(['td', 'th'])]
+            if row:
+                rows.append(row)
 
-    # if data/{table_id} directory does not exist, create it
-    try:
-        os.makedirs(f'data/{table_id}')
-    except FileExistsError:
-        pass
+        # Create directory if it doesn't exist
+        os.makedirs(f'data/{table_id}', exist_ok=True)
 
-    # Step 6: Convert the data into JSON and save to a file
-    with open(f'data/{table_id}/{team_name + table_name}.json', 'w', encoding='utf-8') as json_file:
-        json.dump(rows, json_file, ensure_ascii=False, indent=4)
+        # Save as CSV
+        csv_filename = f'data/{table_id}/{team_name}_{table_id}.csv'
+        with open(csv_filename, 'w', newline='', encoding='utf-8') as csv_file:
+            writer = csv.writer(csv_file)
+            writer.writerow(headers)
+            writer.writerows(rows)
 
-    print(f'Table data has been saved to data/{table_id}/{table_name}.json.')
+        print(f'Table data has been saved to {csv_filename}')
+
+        # Save as JSON
+        json_filename = f'data/{table_id}/{team_name}_{table_id}.json'
+        json_data = [dict(zip(headers, row)) for row in rows]
+        with open(json_filename, 'w', encoding='utf-8') as json_file:
+            json.dump(json_data, json_file, ensure_ascii=False, indent=4)
+
+        print(f'Table data has been saved to {json_filename}')

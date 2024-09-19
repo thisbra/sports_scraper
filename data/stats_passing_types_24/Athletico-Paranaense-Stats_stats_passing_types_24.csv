@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Kaique Rocha,brBRA,DF,23-204,21.6,1028,980,48,35,0,1,4,3,0,0,0,0,903,0,4,Matches
+Erick,brBRA,"MF,DF",26-310,18.7,836,797,38,12,0,5,5,25,0,0,0,0,722,1,5,Matches
+Lucas Esquivel,arARG,DF,22-341,17.8,1144,971,171,24,0,8,83,131,16,5,9,0,906,2,15,Matches
+Fernandinho,brBRA,MF,39-138,15.2,901,813,83,48,6,10,46,5,30,12,11,0,720,5,10,Matches
+Thiago Heleno,brBRA,DF,36-002,14.5,743,690,53,29,0,9,0,2,0,0,0,0,639,0,3,Matches
+Leonardo Linck,brBRA,GK,23-200,13.6,358,247,107,29,1,2,0,0,0,0,0,0,262,4,1,Matches
+Christian,brBRA,"MF,FW",23-275,13.3,434,422,11,2,3,3,27,3,6,0,6,0,348,1,13,Matches
+Leonardo Godoy,arARG,DF,29-144,11.9,550,446,101,6,0,1,37,95,0,0,0,0,397,3,11,Matches
+Bruno Zapelli,arARG,"MF,FW",22-125,11.9,566,507,56,6,7,5,70,1,46,17,20,0,422,3,12,Matches
+Julimar,brBRA,"FW,MF",23-238,13.3,425,413,10,0,0,1,33,9,1,0,0,0,325,2,19,Matches
+Mateo Gamarra,pyPAR,DF,23-335,11.6,690,657,32,22,0,4,2,5,0,0,0,0,562,1,3,Matches
+Tomás Cuello,arARG,"FW,MF",24-198,10.5,430,397,32,1,0,5,62,18,13,2,9,0,304,1,16,Matches
+Agustín Canobbio,uyURU,"FW,MF",25-354,9.7,305,290,14,5,1,2,24,4,5,0,1,1,230,1,13,Matches
+Nikão,brBRA,"FW,MF",32-052,9.7,455,418,37,6,0,12,42,8,23,11,8,0,369,0,11,Matches
+Pablo,brBRA,"FW,MF",32-088,10.1,295,265,29,6,1,3,3,6,3,0,0,0,221,1,3,Matches
+Gabriel,brBRA,MF,32-071,9.4,653,640,12,10,0,5,5,2,0,0,0,0,585,1,8,Matches
+Gonzalo Mastriani,uyURU,FW,31-144,8.7,159,142,16,0,2,0,3,0,0,0,0,0,105,1,6,Matches
+Bento,brBRA,GK,25-101,7.0,171,112,58,10,0,0,0,1,0,0,0,0,121,1,1,Matches
+Lucas Di Yorio,arARG,FW,27-302,6.9,132,111,20,0,0,0,6,3,0,0,0,0,86,1,8,Matches
+Fernando,brBRA,DF,25-005,5.8,334,277,57,8,0,3,23,45,4,0,3,0,275,0,6,Matches
+Mádson,brBRA,DF,32-250,7.6,332,263,68,4,0,0,24,62,2,0,2,0,250,1,5,Matches
+João Machado Cruz,brBRA,MF,18-130,4.3,216,196,18,7,1,3,25,0,11,5,2,0,161,2,5,Matches
+Mycael,brBRA,GK,20-191,3.4,82,56,26,6,0,0,0,0,0,0,0,0,61,0,0,Matches
+Filipinho,brBRA,MF,22-337,1.9,61,59,2,0,0,0,2,1,1,0,0,0,52,0,0,Matches
+Emersonn,brBRA,"FW,MF",20-065,1.8,34,34,0,0,1,1,3,0,0,0,0,0,17,0,3,Matches
+José Vitor Silva Neves,brBRA,"MF,FW",24-140,2.0,103,103,0,0,0,1,3,0,0,0,0,0,79,0,0,Matches
+Alex Santana,brBRA,"MF,FW",29-129,1.1,50,48,2,0,0,0,0,2,0,0,0,0,45,0,1,Matches
+Bruno Praxedes,brBRA,"MF,FW",22-224,0.3,23,18,5,0,0,0,4,2,3,3,0,0,17,0,0,Matches
+Kayke Santos,brBRA,FW,16-146,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,27.3,24.0,11510,10372,1106,276,23,84,536,433,164,55,71,1,9184,32,182,
+Opponent Total,,,28.0,24.0,10696,9538,1124,338,21,76,409,400,112,48,41,2,8457,34,218,

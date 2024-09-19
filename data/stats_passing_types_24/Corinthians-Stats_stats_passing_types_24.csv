@@ -1,0 +1,45 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Rodrigo Garro,arARG,"MF,FW",26-259,22.7,1237,1023,203,100,17,16,175,11,90,28,43,6,854,11,30,Matches
+Raniele,brBRA,"MF,DF",27-263,19.4,648,625,22,20,1,3,11,1,1,0,0,0,488,1,22,Matches
+Hugo,brBRA,DF,27-021,19.3,885,703,181,10,0,0,19,171,0,0,0,0,700,1,10,Matches
+Cacá,brBRA,DF,25-147,19.8,883,843,39,37,1,8,1,1,0,0,0,0,774,1,6,Matches
+Wesley,brBRA,FW,19-198,16.0,401,366,35,4,0,9,43,24,6,1,0,0,298,0,17,Matches
+Félix Torres Caicedo,ecECU,DF,27-252,15.5,766,734,32,18,0,1,2,14,0,0,0,0,656,0,6,Matches
+Yuri Alberto,brBRA,FW,23-185,15.7,266,226,37,0,0,2,3,1,0,0,0,0,193,3,9,Matches
+Matheuzinho,brBRA,DF,24-011,15.9,777,621,155,21,0,4,55,129,5,0,4,0,627,1,19,Matches
+Ángel Romero,pyPAR,FW,32-077,12.1,397,384,12,3,3,2,41,5,0,0,0,0,292,1,21,Matches
+Breno,brBRA,MF,19-212,11.6,520,498,20,17,1,7,10,2,1,0,0,0,441,2,15,Matches
+Igor Coronado,brBRA,"MF,FW",32-032,12.4,663,583,76,29,6,10,96,11,36,8,27,0,479,4,24,Matches
+Hugo Souza,brBRA,GK,25-232,10.0,254,175,77,13,0,2,0,0,0,0,0,0,181,2,1,Matches
+André Ramalho,brBRA,DF,32-216,9.0,462,428,33,30,0,0,0,2,0,0,0,0,400,1,1,Matches
+Gustavo Henrique,brBRA,DF,31-179,8.2,351,339,12,12,0,0,0,0,0,0,0,0,307,0,0,Matches
+Fagner,brBRA,"DF,MF",35-100,7.7,384,287,96,13,1,3,35,76,7,2,4,0,297,1,10,Matches
+Matheus Donelli,brBRA,GK,22-125,7.0,198,133,65,12,0,0,0,0,0,0,0,0,147,0,0,Matches
+Carlos Miguel,brBRA,GK,25-346,6.0,185,122,63,17,0,1,0,0,0,0,0,0,147,0,0,Matches
+Ryan Gustavo,brBRA,MF,21-066,5.8,204,196,7,6,0,0,3,1,0,0,0,0,178,1,3,Matches
+Matheus Bidu,brBRA,DF,25-138,6.2,336,270,64,16,1,2,20,46,2,0,2,0,279,2,9,Matches
+Pedro Raul,brBRA,FW,27-319,5.8,111,100,9,0,1,0,2,0,0,0,0,0,69,2,8,Matches
+Gustavo Mosquito,brBRA,FW,27-012,4.5,110,107,3,0,0,0,15,3,0,0,0,0,88,0,3,Matches
+Alex Santana,brBRA,MF,29-129,3.8,137,130,7,6,0,0,0,1,0,0,0,0,109,0,2,Matches
+Pedro Henrique,brBRA,"FW,MF",34-095,3.8,101,96,5,0,0,1,16,3,0,0,0,0,73,0,0,Matches
+Caetano,brBRA,DF,25-087,3.1,123,120,3,3,0,1,0,0,0,0,0,0,114,0,0,Matches
+Talles Magno,brBRA,"MF,FW",22-085,2.2,53,50,1,1,1,0,0,0,0,0,0,0,43,2,0,Matches
+Charles Rigon Matos,brBRA,"MF,DF",28-092,3.6,120,118,2,2,1,0,7,0,0,0,0,0,91,0,4,Matches
+Cássio,brBRA,GK,37-105,3.0,88,61,26,7,0,0,0,0,0,0,0,0,71,1,0,Matches
+Léo Mana,brBRA,DF,20-166,2.3,109,87,21,0,0,0,5,21,0,0,0,0,86,1,3,Matches
+Fausto Vera,arARG,MF,24-177,2.4,139,135,4,3,0,1,0,1,0,0,0,0,120,0,2,Matches
+José Andrés Martínez,veVEN,MF,30-043,1.7,76,76,0,0,0,2,0,0,0,0,0,0,64,0,0,Matches
+Giovane,brBRA,"FW,MF",20-300,3.0,61,54,7,0,1,0,10,2,1,0,1,0,42,0,1,Matches
+Paulinho,brBRA,MF,36-056,1.3,59,52,7,7,0,0,0,0,0,0,0,0,52,0,0,Matches
+Raul Bicalho,brBRA,DF,25-148,1.0,61,60,1,1,0,2,1,0,0,0,0,0,49,0,0,Matches
+Gabriel Moscardo,brBRA,MF,18-357,0.9,22,22,0,0,0,0,0,0,0,0,0,0,15,0,1,Matches
+Héctor,esESP,"DF,FW",29-005,0.6,13,11,2,1,0,1,0,0,0,0,0,0,13,0,0,Matches
+Maycon,brBRA,MF,27-066,0.5,32,32,0,0,0,0,0,0,0,0,0,0,25,0,0,Matches
+Matheus Araújo,brBRA,MF,22-120,0.5,11,10,1,0,0,0,0,1,0,0,0,0,9,0,0,Matches
+Arthur,brBRA,FW,21-191,0.2,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+André Carrillo,pePER,"MF,FW",33-097,0.2,18,17,1,1,0,0,1,0,0,0,0,0,13,0,1,Matches
+Biro,brBRA,"MF,DF",20-152,0.2,14,14,0,0,0,0,0,0,0,0,0,0,12,0,0,Matches
+Kayke,brBRA,"MF,FW",20-144,0.2,10,10,0,0,0,0,0,0,0,0,0,0,9,0,0,Matches
+João Pedro,brBRA,DF,20-263,0.1,4,2,2,2,0,0,0,0,0,0,0,0,3,0,0,Matches
+Squad Total,,,26.6,26.0,11291,9922,1331,412,35,78,571,527,149,39,81,6,8910,38,228,
+Opponent Total,,,28.7,26.0,11725,10406,1280,361,22,88,454,511,143,52,49,2,9294,39,247,

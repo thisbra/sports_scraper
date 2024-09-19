@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Wéverton,brBRA,GK,36-281,25.0,788,575,211,50,0,3,0,0,0,0,0,0,551,2,0,Matches
+Aníbal Moreno,arARG,MF,25-129,19.0,1009,984,22,17,2,15,12,3,2,1,1,0,855,3,13,Matches
+Murilo Cerqueira,brBRA,DF,27-176,17.5,785,761,23,16,1,12,4,2,0,0,0,0,653,1,2,Matches
+Raphael Veiga,brBRA,MF,29-092,17.0,799,635,152,44,3,16,128,7,88,42,30,2,609,12,10,Matches
+Estevão,brBRA,FW,18-148,15.5,474,442,32,3,2,8,45,11,18,10,3,0,360,0,10,Matches
+Gustavo Gómez,pyPAR,DF,31-136,16.0,729,691,36,30,1,4,2,6,0,0,0,0,604,2,2,Matches
+José López,arARG,FW,23-288,14.9,259,251,5,0,1,2,9,1,0,0,0,0,146,3,10,Matches
+Joaquín Piquerez,uyURU,DF,26-026,14.6,782,658,122,20,0,11,79,101,1,0,1,0,616,2,21,Matches
+Marcos Rocha,brBRA,DF,35-283,15.5,1075,862,210,36,2,4,40,173,1,0,0,0,817,3,22,Matches
+Rony,brBRA,FW,29-131,15.2,240,221,19,1,1,2,28,6,0,0,0,0,173,0,9,Matches
+Richard Ríos,coCOL,MF,24-109,10.6,452,436,13,12,0,4,20,1,0,0,0,0,366,3,12,Matches
+Gabriel Menino,brBRA,"MF,FW",23-356,10.2,554,482,67,22,0,11,56,10,34,16,4,0,434,5,10,Matches
+Mayke,brBRA,DF,31-314,9.6,610,518,91,12,0,1,29,79,0,0,0,0,492,1,14,Matches
+Zé Rafael,brBRA,MF,31-095,9.2,369,353,15,14,2,2,4,1,0,0,0,0,321,1,8,Matches
+Vitor Reis,brBRA,DF,18-251,9.2,472,459,13,12,0,0,0,1,0,0,0,0,434,0,0,Matches
+Kaiky Naves,brBRA,DF,22-134,8.1,398,388,8,6,0,9,0,2,0,0,0,0,332,2,3,Matches
+Lázaro,brBRA,"FW,MF",22-191,8.3,263,244,16,1,1,5,14,8,3,2,0,0,196,3,10,Matches
+Vanderlan,brBRA,DF,22-012,8.2,323,263,60,3,0,1,36,57,0,0,0,0,250,0,15,Matches
+Mauricio,brBRA,"MF,FW",23-120,6.1,249,231,15,5,0,0,19,2,5,3,2,0,196,3,3,Matches
+Caio Paulista,brBRA,"DF,FW",26-131,5.1,332,287,44,8,0,1,24,36,0,0,0,0,289,1,2,Matches
+Endrick,brBRA,"MF,FW",18-060,5.0,104,93,10,3,0,5,3,4,0,0,0,0,74,1,3,Matches
+Felipe Anderson,brBRA,"FW,MF",31-157,5.8,288,270,18,2,1,1,18,5,9,4,2,0,210,0,16,Matches
+Fabinho,brBRA,MF,22-163,4.5,210,203,6,6,0,5,1,0,0,0,0,0,167,1,4,Matches
+Dudu,brBRA,"FW,MF",32-256,3.4,171,160,10,3,0,0,19,3,3,0,3,0,124,1,7,Matches
+Agustín Giay,arARG,DF,20-247,2.8,210,186,24,0,0,0,10,24,0,0,0,0,171,0,5,Matches
+Luan Garcia,brBRA,DF,31-132,2.6,90,81,7,6,0,0,0,1,0,0,0,0,77,2,0,Matches
+Luis Guilherme,brBRA,"FW,DF",18-223,2.0,90,82,7,0,0,0,13,1,6,6,0,0,70,1,0,Matches
+Romulo,brBRA,"FW,MF",22-348,1.7,61,56,5,0,0,1,14,0,5,2,2,0,41,0,4,Matches
+Jhonatan Jowjow,brBRA,MF,22-010,1.6,67,61,5,0,1,0,8,1,4,3,0,0,47,1,3,Matches
+Marcelo Lomba,brBRA,GK,37-276,1.0,25,17,8,1,0,0,0,0,0,0,0,0,22,0,0,Matches
+Luighi,brBRA,"MF,FW",18-142,0.2,8,8,0,0,0,0,0,0,0,0,0,0,4,0,1,Matches
+García,brBRA,"MF,FW",22-259,0.1,3,2,1,0,0,0,0,1,0,0,0,0,2,0,0,Matches
+Squad Total,,,27.2,26.0,12289,10960,1275,333,18,123,635,547,179,89,48,2,9703,54,219,
+Opponent Total,,,28.3,26.0,10272,8966,1276,401,18,66,376,439,99,47,29,2,7864,30,199,

@@ -1,0 +1,37 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Wesley,brBRA,"FW,MF",25-173,17.4,539,523,14,2,6,8,55,5,5,2,2,0,381,2,21,Matches
+Thiago Maia,brBRA,MF,27-180,14.5,787,763,23,13,2,6,4,6,0,0,0,0,676,1,10,Matches
+Bruno Henrique,brBRA,"MF,FW",34-334,15.1,750,686,63,30,2,1,56,3,23,12,9,0,610,1,6,Matches
+Vitão,brBRA,DF,24-230,14.0,762,733,25,23,1,8,4,1,0,0,0,0,657,4,2,Matches
+Sergio Rochet,uyURU,GK,31-180,14.0,378,254,121,40,0,0,0,0,0,0,0,0,252,3,0,Matches
+Gabriel Mercado,arARG,DF,37-185,12.8,703,687,16,15,0,2,1,1,0,0,0,0,628,0,3,Matches
+Rafael Borré,coCOL,FW,29-004,10.9,225,211,11,0,0,2,6,2,1,0,0,0,179,3,2,Matches
+Fernando,brBRA,"DF,MF",37-056,11.6,691,669,22,21,0,3,0,1,0,0,0,0,634,0,0,Matches
+Romulo,brBRA,MF,24-202,11.4,510,499,9,6,1,1,3,3,0,0,0,0,425,2,8,Matches
+Bruno Gomes,brBRA,"DF,MF",23-168,11.0,769,684,83,15,2,1,25,63,4,0,3,1,618,2,19,Matches
+Renê,brBRA,DF,32-005,10.6,720,604,111,40,1,8,18,71,0,0,0,0,548,5,12,Matches
+Robert Renan,brBRA,DF,20-344,10.7,604,562,40,12,0,4,12,28,0,0,0,0,521,2,4,Matches
+Alexandro Bernabei,arARG,DF,23-361,9.9,589,454,134,16,3,0,45,106,12,5,5,0,459,1,18,Matches
+Gabriel Carvalho,brBRA,"FW,MF",17-033,8.4,402,375,25,10,3,4,31,3,11,8,3,0,306,2,11,Matches
+Fabricio Bustos,arARG,DF,28-144,9.6,602,515,86,8,0,2,26,77,1,0,0,0,496,1,10,Matches
+Wanderson,brBRA,"FW,MF",29-348,8.6,244,234,9,1,0,0,34,6,2,1,0,0,187,1,12,Matches
+Alan Patrick,brBRA,"MF,FW",33-129,8.0,420,369,46,19,1,1,39,3,23,14,7,0,327,5,5,Matches
+Fabrício,brBRA,GK,38-256,8.0,202,137,63,13,0,0,0,0,0,0,0,0,134,2,1,Matches
+Igor Gomes,brBRA,DF,23-197,6.9,398,349,48,7,0,0,11,41,0,0,0,0,311,1,8,Matches
+Lucas Alario,arARG,FW,31-347,6.8,99,94,4,0,0,0,2,0,0,0,0,0,76,1,2,Matches
+Enner Valencia,ecECU,FW,34-320,5.2,72,63,9,1,0,0,7,0,0,0,0,0,46,0,5,Matches
+Bruno Tabata,brBRA,"MF,FW",27-173,5.1,193,163,30,7,2,2,36,6,16,13,2,0,135,0,4,Matches
+Agustín Rogel,uyURU,DF,26-338,4.3,222,217,5,4,0,3,0,1,0,0,0,0,191,0,3,Matches
+Mauricio,brBRA,MF,23-120,4.2,144,131,13,1,1,0,14,3,9,6,1,0,104,0,6,Matches
+Hugo Mallo,esESP,DF,33-089,4.0,219,188,31,5,0,1,11,25,1,0,0,0,168,0,4,Matches
+Hyoran,brBRA,"FW,MF",31-117,3.7,105,95,9,1,0,0,14,1,6,2,3,0,69,1,5,Matches
+Lucca Holanda,brBRA,"FW,MF",21-170,3.0,40,40,0,0,0,0,2,0,0,0,0,0,25,0,4,Matches
+Charles Aránguiz,clCHI,MF,35-155,3.2,166,159,7,3,0,1,2,0,0,0,0,0,131,0,0,Matches
+Anthoni,brBRA,GK,22-240,2.0,72,39,33,7,0,0,0,0,0,0,0,0,37,0,0,Matches
+Lucca Drummond,brBRA,FW,20-251,1.8,35,35,0,0,0,0,0,0,0,0,0,0,27,0,3,Matches
+Gustavo Prado,brBRA,"FW,MF",19-105,5.1,210,204,5,1,1,2,26,0,4,0,4,0,163,1,6,Matches
+Matheus Dias,brBRA,"FW,MF",27-225,0.8,38,36,2,1,0,0,1,1,0,0,0,0,30,0,0,Matches
+Ricardo Mathias,brBRA,"FW,MF",18-056,0.7,13,11,1,0,0,0,2,1,0,0,0,0,5,1,0,Matches
+Nathan,brBRA,DF,23-014,0.1,7,6,1,0,0,0,1,1,0,0,0,0,6,0,0,Matches
+Squad Total,,,28.6,24.0,11930,10789,1099,322,26,60,488,459,118,63,39,1,9562,42,194,
+Opponent Total,,,28.4,24.0,10754,9480,1230,402,19,109,441,491,101,23,49,7,8334,44,225,

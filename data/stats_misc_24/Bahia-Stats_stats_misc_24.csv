@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Marcos Felipe,brBRA,GK,28-159,26.0,2,0,0,1,4,0,0,0,1,0,0,0,38,5,1,83.3,Matches
+Jean Lucas,brBRA,MF,26-089,23.4,4,0,0,30,41,1,12,12,22,0,0,0,117,14,19,42.4,Matches
+Gabriel,brBRA,DF,23-136,24.0,4,0,0,28,9,0,1,36,35,0,0,0,69,92,35,72.4,Matches
+Caio Alexandre,brBRA,MF,25-208,22.3,5,0,0,31,38,2,17,9,23,0,0,0,102,6,7,46.2,Matches
+Cauly Oliveira Souza,brBRA,"MF,FW",29-004,21.3,1,0,0,16,24,3,70,5,3,0,0,0,53,4,11,26.7,Matches
+Luciano Juba,brBRA,DF,25-021,22.9,1,0,0,7,9,2,80,35,20,0,0,0,129,21,20,51.2,Matches
+Everton Ribeiro,brBRA,MF,35-162,20.2,2,0,0,27,48,1,25,27,25,0,0,0,82,8,12,40.0,Matches
+Thaciano,brBRA,FW,29-130,19.2,5,0,0,19,14,17,9,13,10,0,0,0,64,27,38,41.5,Matches
+Everaldo Stum,brBRA,FW,33-076,17.7,4,0,0,25,24,4,27,2,11,0,0,0,44,43,25,63.2,Matches
+Kanu,brBRA,DF,27-196,20.0,9,0,0,27,21,0,0,23,9,0,0,0,66,35,21,62.5,Matches
+Santiago Arias,coCOL,DF,32-250,14.2,2,0,0,18,19,3,46,11,17,0,0,0,61,11,15,42.3,Matches
+Gilberto,brBRA,DF,31-196,10.3,1,0,0,10,15,2,32,5,15,0,0,0,42,13,9,59.1,Matches
+Víctor Cuesta,arARG,DF,35-305,5.1,3,0,0,7,5,1,1,5,9,0,0,0,16,7,6,53.8,Matches
+Ademir Santos,brBRA,"FW,MF",29-216,6.0,0,0,0,5,15,4,23,4,10,0,0,0,29,4,9,30.8,Matches
+Rezende,brBRA,"MF,DF",29-261,5.9,3,0,0,12,13,0,0,8,14,0,0,0,23,10,10,50.0,Matches
+Biel,brBRA,"FW,MF",23-171,7.7,2,0,0,6,17,2,15,5,4,0,0,0,22,1,5,16.7,Matches
+Carlos de Pena,uyURU,MF,32-192,6.0,5,0,0,8,7,0,45,7,7,0,0,0,32,7,3,70.0,Matches
+Iago,brBRA,"DF,MF",27-180,4.1,0,0,0,4,6,0,7,5,6,0,0,0,14,4,0,100.0,Matches
+Oscar Estupiñan,coCOL,"FW,MF",27-265,2.8,1,0,0,5,1,1,0,1,1,0,0,0,2,9,11,45.0,Matches
+Luciano Rodríguez,uyURU,FW,21-065,1.9,0,0,0,2,10,1,2,1,0,0,0,0,9,0,6,0.0,Matches
+Cicinho,bgBUL,"DF,FW",35-268,0.9,0,0,0,3,2,0,2,0,1,0,0,0,3,2,3,40.0,Matches
+David Duarte,brBRA,DF,29-239,0.8,0,0,0,0,1,0,0,0,0,0,0,0,3,4,1,80.0,Matches
+Rafael Ratão,brBRA,"FW,MF",28-294,2.4,0,0,0,5,3,1,3,0,4,0,0,0,8,2,8,20.0,Matches
+Yago,brBRA,MF,29-229,0.3,2,0,0,3,0,0,0,0,0,0,0,0,2,1,0,100.0,Matches
+Vitor Hugo,brBRA,DF,33-122,0.2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0.0,Matches
+Tiago,brBRA,FW,19-164,0.1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,Matches
+Ruan Pablo,brBRA,MF,16-058,0.1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,,Matches
+Squad Total,,,28.6,26.0,58,0,0,300,346,46,418,215,247,0,0,0,1032,330,276,54.5,
+Opponent Total,,,28.2,26.0,86,5,3,361,285,79,478,251,251,0,1,0,1104,276,330,45.5,

@@ -26,23 +26,10 @@ def get_all_tables_from_team(team_href):
     # Step 3: Find all tables that have the class 'stats_table'
     tables = soup.find_all('table', class_='stats_table')
 
+    # Step 4: Print the number of tables found and their ids
+    print(f"Found {len(tables)} tables in the page")
     for table in tables:
-        table_id = table['id']
-        table_name = table_id.replace('_', '-')
-
-        extract_table_data(
-            url=f'https://fbref.com{team_href}',
-            table_id=table_id,
-            table_name=table_name,
-            team_name=team_name
-        )
-
-        json_to_csv(
-            f'{team_name + table_name}.json',
-            f'{team_name + table_name}.csv',
-            f'data/{table_id}'
-        )
-
-        print(f'{table_id} for {team_href} done')
-
-        time.sleep(10)
+        print(f"Table id: {table['id']}")
+    
+    # Step 5: Return list of ids
+    return [table['id'] for table in tables]

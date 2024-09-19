@@ -1,0 +1,37 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Wesley,brBRA,"FW,MF",25-173,17.4,6,0,0,37,59,6,55,5,19,3,0,0,93,27,32,45.8,Matches
+Thiago Maia,brBRA,MF,27-180,14.5,1,0,0,15,10,2,4,23,27,0,0,0,107,32,26,55.2,Matches
+Bruno Henrique,brBRA,"MF,FW",34-334,15.1,3,0,0,35,17,1,56,11,19,0,0,0,74,17,16,51.5,Matches
+Vitão,brBRA,DF,24-230,14.0,3,0,0,11,6,0,4,12,9,0,0,0,31,30,24,55.6,Matches
+Sergio Rochet,uyURU,GK,31-180,14.0,3,0,0,0,6,0,0,0,0,0,0,0,19,2,0,100.0,Matches
+Gabriel Mercado,arARG,DF,37-185,12.8,6,0,0,7,5,0,1,10,6,0,0,0,42,23,23,50.0,Matches
+Rafael Borré,coCOL,FW,29-004,10.9,4,0,0,19,8,9,6,2,7,0,0,0,25,31,35,47.0,Matches
+Fernando,brBRA,"DF,MF",37-056,11.6,5,0,0,17,6,2,0,16,17,0,0,0,79,22,12,64.7,Matches
+Romulo,brBRA,MF,24-202,11.4,3,0,0,24,11,0,3,19,17,0,0,0,55,23,15,60.5,Matches
+Bruno Gomes,brBRA,"DF,MF",23-168,11.0,2,0,0,20,20,0,25,9,17,0,0,0,56,11,17,39.3,Matches
+Renê,brBRA,DF,32-005,10.6,2,0,0,12,15,0,18,17,20,0,0,0,63,28,11,71.8,Matches
+Robert Renan,brBRA,DF,20-344,10.7,2,0,0,14,0,0,12,20,21,0,0,0,50,14,14,50.0,Matches
+Alexandro Bernabei,arARG,DF,23-361,9.9,0,0,0,15,4,2,45,26,13,0,0,0,61,15,8,65.2,Matches
+Gabriel Carvalho,brBRA,"FW,MF",17-033,8.4,3,0,0,16,8,0,31,1,11,0,0,0,39,7,15,31.8,Matches
+Fabricio Bustos,arARG,DF,28-144,9.6,4,0,0,17,8,1,26,11,23,0,0,0,43,7,10,41.2,Matches
+Wanderson,brBRA,"FW,MF",29-348,8.6,2,0,0,12,9,1,34,5,4,0,0,0,34,1,4,20.0,Matches
+Alan Patrick,brBRA,"MF,FW",33-129,8.0,3,0,0,10,13,0,39,1,9,0,0,0,39,1,14,6.7,Matches
+Fabrício,brBRA,GK,38-256,8.0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,0,100.0,Matches
+Igor Gomes,brBRA,DF,23-197,6.9,2,0,0,7,7,0,11,7,8,0,0,0,34,19,21,47.5,Matches
+Lucas Alario,arARG,FW,31-347,6.8,4,0,0,21,6,9,2,1,1,0,1,0,11,13,39,25.0,Matches
+Enner Valencia,ecECU,FW,34-320,5.2,1,0,0,7,11,3,7,1,4,0,1,0,15,11,25,30.6,Matches
+Bruno Tabata,brBRA,"MF,FW",27-173,5.1,1,0,0,3,9,2,36,0,2,1,0,0,22,2,8,20.0,Matches
+Agustín Rogel,uyURU,DF,26-338,4.3,1,1,0,7,3,0,0,6,3,0,0,0,10,23,3,88.5,Matches
+Mauricio,brBRA,MF,23-120,4.2,1,0,0,4,6,0,14,1,5,0,0,0,22,0,10,0.0,Matches
+Hugo Mallo,esESP,DF,33-089,4.0,2,0,0,3,1,1,11,4,7,0,0,0,12,3,6,33.3,Matches
+Hyoran,brBRA,"FW,MF",31-117,3.7,0,0,0,7,9,1,14,0,6,0,0,0,11,2,4,33.3,Matches
+Lucca Holanda,brBRA,"FW,MF",21-170,3.0,0,0,0,6,7,1,2,0,3,0,0,0,5,7,12,36.8,Matches
+Charles Aránguiz,clCHI,MF,35-155,3.2,2,0,0,12,3,0,2,1,5,0,0,0,12,1,5,16.7,Matches
+Anthoni,brBRA,GK,22-240,2.0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
+Lucca Drummond,brBRA,FW,20-251,1.8,0,0,0,4,2,0,0,0,0,0,0,0,3,1,7,12.5,Matches
+Gustavo Prado,brBRA,"FW,MF",19-105,5.1,1,0,0,9,7,1,26,1,11,0,0,0,23,1,6,14.3,Matches
+Matheus Dias,brBRA,"FW,MF",27-225,0.8,1,0,0,2,1,0,1,1,2,0,0,0,1,2,1,66.7,Matches
+Ricardo Mathias,brBRA,"FW,MF",18-056,0.7,1,0,0,3,1,0,2,1,0,0,0,0,2,6,6,50.0,Matches
+Nathan,brBRA,DF,23-014,0.1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,Matches
+Squad Total,,,28.6,24.0,70,1,0,377,278,42,488,212,296,4,2,0,1105,384,429,47.2,
+Opponent Total,,,28.4,24.0,68,3,2,296,363,44,441,237,266,1,5,1,1044,428,386,52.6,
